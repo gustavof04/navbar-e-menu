@@ -7,6 +7,7 @@ Foi meu primeiro contato com Tailwind, onde pude notar uma melhora significativa
 Por fim, aprimorei fortemente meus conhecimentos em React:
 * Explorando os hooks <code>useEffect</code> e <code>useState</code>;
 * Utilizando constantemente os nested components e suas relações entre componente pai e compontentes filhos;
+* Fazendo uso de ferramentas e frameworks para melhorar ainda mais a intuitividade e experiência do usuário.
 
 ## Tecnologias utilizadas
 Node.js V.: 18.16.0 || React V.: 18.2.0 || Vite V.: 4.3.9 || Tailwind V.: 3.3.2 || GSAP V.: 3.12.1
