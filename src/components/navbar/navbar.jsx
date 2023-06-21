@@ -16,7 +16,7 @@ const Navbar = () => {
     useEffect(() => {
         const navbar = navbarRef.current;
         const tl = gsap.timeline({ paused: true });
-        tl.to(navbar, { y: -navbar.offsetHeight, duration: 0.5 });
+        tl.to(navbar, { y: -navbar.offsetHeight, duration: 0.6 });
 
         let prevScrollPos = window.scrollY;
         let isScrollingDown = false;
