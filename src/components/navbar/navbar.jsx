@@ -66,9 +66,19 @@ const Navbar = () => {
                 <div className="flex items-center">
                     <div className="text-white text-2xl font-semibold">logo</div>
                 </div>
+                
+                <ul className="flex">
+                    <li><a href="#" className="ml-6 hidden md:block">Opção 1</a></li>
+                    <li><a href="#" className="ml-6 hidden md:block">Opção 2</a></li>
+                    <li><a href="#" className="ml-6 hidden md:block">Opção 3</a></li>
+                    <li><a href="#" className="ml-6 hidden md:block">Opção 4</a></li>
+                    <li><a href="#" className="ml-6 hidden md:block">Opção 5</a></li>
+                </ul>
+                <div className="md:hidden"> {/* Esconda apenas o ícone em telas maiores que 768px */}
                 <div className="cursor-pointer" onClick={toggleMenu}>
                     <Bars3Icon className="h-10" />
                 </div>
+            </div>
             </nav>
         </>
     );
