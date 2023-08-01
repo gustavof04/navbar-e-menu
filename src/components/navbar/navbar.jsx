@@ -61,7 +61,7 @@ const Navbar = () => {
             <Menu isOpen={isOpen} onClose={toggleMenu} />
             <nav 
                 ref={navbarRef} 
-                className={`fixed top-0 left-0 bg-gradient px-6 py-6 flex w-full z-20 text-white items-center justify-between ${!isAtTop && 'bg-slate-900 lg:backdrop-blur-sm lg:bg-slate-50/10'}`}
+                className={`fixed top-0 left-0 bg-gradient px-6 py-5 flex w-full z-20 text-white items-center justify-between ${!isAtTop && 'bg-slate-900 lg:backdrop-blur-sm lg:bg-slate-50/10'}`}
             >
                 <div className="flex items-center">
                     <div className="text-white text-2xl font-semibold">logo</div>
