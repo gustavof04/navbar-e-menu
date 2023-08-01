@@ -59,27 +59,30 @@ const Navbar = () => {
     return (
         <>
             <Menu isOpen={isOpen} onClose={toggleMenu} />
-            <nav 
-                ref={navbarRef} 
-                className={`fixed top-0 left-0 bg-gradient px-6 py-5 flex w-full z-20 text-white items-center justify-between ${!isAtTop && 'bg-slate-900 lg:backdrop-blur-sm lg:bg-slate-50/10'}`}
-            >
-                <div className="flex items-center">
-                    <div className="text-white text-2xl font-semibold">logo</div>
+            <div>
+                <nav 
+                    ref={navbarRef} 
+                    className={`fixed top-0 left-0 bg-gradient px-6 py-5 flex w-full z-20 text-white items-center justify-between ${!isAtTop && 'bg-slate-900 lg:backdrop-blur-sm lg:bg-slate-50/10'} -lg:max-w-75rem -lg:mx-auto`}
+                    
+                >
+                    <div className="flex items-center lg:max-w-75rem lg:mx-auto">
+                        <div className="text-white text-2xl font-semibold">logo</div>
+                    </div>
+
+                    <ul className="flex items-center justify-between lg:max-w-75rem lg:mx-auto">
+                        <li><a href="#" className="ml-6 hidden md:block">Opção 1</a></li>
+                        <li><a href="#" className="ml-6 hidden md:block">Opção 2</a></li>
+                        <li><a href="#" className="ml-6 hidden md:block">Opção 3</a></li>
+                        <li><a href="#" className="ml-6 hidden md:block">Opção 4</a></li>
+                        <li><a href="#" className="ml-6 hidden md:block">Opção 5</a></li>
+                    </ul>
+                    <div className="md:hidden"> {/* Esconda apenas o ícone em telas maiores que 768px */}
+                    <div className="cursor-pointer" onClick={toggleMenu}>
+                        <Bars3Icon className="h-10" />
+                    </div>
                 </div>
-                
-                <ul className="flex">
-                    <li><a href="#" className="ml-6 hidden md:block">Opção 1</a></li>
-                    <li><a href="#" className="ml-6 hidden md:block">Opção 2</a></li>
-                    <li><a href="#" className="ml-6 hidden md:block">Opção 3</a></li>
-                    <li><a href="#" className="ml-6 hidden md:block">Opção 4</a></li>
-                    <li><a href="#" className="ml-6 hidden md:block">Opção 5</a></li>
-                </ul>
-                <div className="md:hidden"> {/* Esconda apenas o ícone em telas maiores que 768px */}
-                <div className="cursor-pointer" onClick={toggleMenu}>
-                    <Bars3Icon className="h-10" />
-                </div>
+                </nav>
             </div>
-            </nav>
         </>
     );
 };
