@@ -69,7 +69,7 @@ const Navbar = () => {
                         <div className="text-white text-2xl font-semibold">logo</div>
                     </div>
 
-                    <ul className="flex items-center justify-between lg:max-w-75rem lg:mx-auto">
+                    <ul className="flex items-center justify-between lg:max-w-75rem lg:mx-auto font-medium">
                         <li><a href="#" className="ml-6 hidden md:block">Opção 1</a></li>
                         <li><a href="#" className="ml-6 hidden md:block">Opção 2</a></li>
                         <li><a href="#" className="ml-6 hidden md:block">Opção 3</a></li>
