@@ -15,20 +15,20 @@ https://vercel.com/gustavof04/navbar-e-menu
 
 Para uma análise manual e alterações que queira fazer no projeto, continue com os procedimentos abaixo.
 
-## Tecnologias utilizadas
+## 🔧 Tecnologias utilizadas
 Node.js V.: 18.16.0 || React V.: 18.2.0 || Vite V.: 4.3.9 || Tailwind V.: 3.3.2 || GSAP V.: 3.12.1
 
-## Configurando o ambiente
+## ⚙️ Configurando o ambiente
 * Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo no link abaixo:
 
   https://nodejs.org/
 
-## Instalando as dependências
+## 🧑‍🔬 Instalando as dependências
 * No terminal, navegue até a pasta raiz do projeto e execute o seguinte comando para instalar as dependências dele:
 
   <code>npm install</code>
 
-## Executando o projeto
+## 🚀 Executando o projeto
 * Após instalar as dependências, execute o seguinte comando para iniciar o servidor de desenvolvimento do Vite:
 
   <code>npm run dev</code>
