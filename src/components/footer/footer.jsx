@@ -4,7 +4,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer className='bg-gray-900'>
+    <footer className='bg-slate-900'>
         <div className='w-full'>
             <div className='grid grid-cols-2 gap-8 px-6 py-6 box-content lg:py-8 md:grid-cols-4 lg:mx-auto lg:max-w-75rem lg:gap-40'>
                 <div>
@@ -19,7 +19,7 @@ function Footer() {
                         <li className="mb-4">
                             <a href="#" className="hover:underline">Brand Center</a>
                         </li>
-                        <li className="mb-4">
+                        <li>
                             <a href="#" className="hover:underline">Contate-nos</a>
                         </li>
                     </ul>
@@ -36,7 +36,7 @@ function Footer() {
                         <li className="mb-4">
                             <a href="#" className="hover:underline">Facebook</a>
                         </li>
-                        <li className="mb-4">
+                        <li>
                             <a href="#" className="hover:underline">Contact Us</a>
                         </li>
                     </ul>
@@ -50,7 +50,7 @@ function Footer() {
                         <li className='mb-4'>
                             <a href="#" className='hover:underline'>Licença</a>
                         </li>
-                        <li className='mb-4'>
+                        <li>
                             <a href="#" className='hover:underline'>Termos &amp; Condições</a>
                         </li>
                     </ul>
@@ -67,7 +67,7 @@ function Footer() {
                         <li className='mb-4'>
                             <a href="#" className='hover:underline'>Windows</a>
                         </li>
-                        <li className='mb-4'>
+                        <li>
                             <a href="#" className='hover:underline'>MacOS</a>
                         </li>
                     </ul>
