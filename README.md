@@ -26,11 +26,16 @@ Node.js V.: 18.16.0 || React V.: 18.2.0 || Vite V.: 4.3.9 || Tailwind V.: 3.3.2 
 ## 🧑‍🔬 Instalando as dependências
 * No terminal, navegue até a pasta raiz do projeto e execute o seguinte comando para instalar as dependências dele:
 
-  <code>npm install</code>
+```bash
+npm install
+```
+
 
 ## 🚀 Executando o projeto
 * Após instalar as dependências, execute o seguinte comando para iniciar o servidor de desenvolvimento do Vite:
 
-  <code>npm run dev</code>
+```bash
+npm run dev
+```
 
 * Iniciando o servidor, o projeto será executado no navegador indo ao link gerado pelo Vite.
