@@ -42,7 +42,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div>
-                    <h2 className='mb-6 text-sm font-semibold text-white uppercase'>Legal</h2>
+                    <h2 className='mb-6 text-sm font-semibold text-white uppercase'>Normas</h2>
                     <ul className='text-gray-400 font-medium'>
                         <li className='mb-4'>
                             <a href="#" className='hover:underline'>Política de Privacidade</a>
@@ -56,7 +56,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div>
-                    <h2 className='mb-6 text-sm font-semibold text-white uppercase'>Download</h2>
+                    <h2 className='mb-6 text-sm font-semibold text-white uppercase'>Baixar</h2>
                     <ul className='text-gray-500 font-medium'>
                         <li className='mb-4'>
                             <a href="#" className='hover:underline'>iOS</a>
