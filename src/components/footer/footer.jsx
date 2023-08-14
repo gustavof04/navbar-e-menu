@@ -2,7 +2,7 @@ import React from 'react';
 
 // import { Container } from './styles';
 
-function Footer() {
+const Footer = () => {
   return (
     <footer className='bg-slate-900'>
         <div className='w-full'>
