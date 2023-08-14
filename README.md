@@ -1,6 +1,6 @@
 # Homepage com React, Tailwind e GSAP
 
-Tela inicial desenvolvida com React e estilizada com o framework Tailwind. Foi animada com o framework de animação GreenSock Animation Platform (GSAP) em conjunto com o pack de ícones, feito pelos mesmos criadores do Tailwind, heroicons.
+Tela inicial desenvolvida com React utilizando o ambiente de desenvolvimento Vite e estilizada com o framework Tailwind. Foi animada com o framework de animação GreenSock Animation Platform (GSAP) em conjunto com o pack de ícones, feito pelos mesmos criadores do Tailwind, heroicons.
 
 Sendo meu primeiro contato com Tailwind, pude notar uma melhora significativa na produtividade de desenvolvimento do projeto no quesito de estilização e responsividade.
 
