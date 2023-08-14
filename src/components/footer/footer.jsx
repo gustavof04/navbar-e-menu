@@ -20,7 +20,7 @@ function Footer() {
                             <a href="#" className="hover:underline">Brand Center</a>
                         </li>
                         <li>
-                            <a href="#" className="hover:underline">Contate-nos</a>
+                            <a href="#" className="hover:underline">Blog</a>
                         </li>
                     </ul>
                 </div>
@@ -28,16 +28,16 @@ function Footer() {
                     <h2 className='mb-6 text-sm font-semibold text-white uppercase'>Central de Ajuda</h2>
                     <ul className='text-gray-500 dark:text-gray-400 font-medium'>
                         <li className="mb-4">
-                            <a href="#" className="hover:underline">Teste</a>
+                            <a href="#" className="hover:underline">Facebook</a>
+                        </li>
+                        <li className="mb-4">
+                            <a href="#" className="hover:underline">Instagram</a>
                         </li>
                         <li className="mb-4">
                             <a href="#" className="hover:underline">Twitter</a>
                         </li>
-                        <li className="mb-4">
-                            <a href="#" className="hover:underline">Facebook</a>
-                        </li>
                         <li>
-                            <a href="#" className="hover:underline">Contact Us</a>
+                            <a href="#" className="hover:underline">Contate-nos</a>
                         </li>
                     </ul>
                 </div>
