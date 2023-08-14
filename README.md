@@ -1,8 +1,8 @@
-# Navbar e Menu com React, Tailwind e GSAP
+# Homepage com React, Tailwind e GSAP
 
-Página desenvolvida com React e estilizada com o framework Tailwind contendo uma barra de navegação intuitiva e um menu de opções. Foi animada com o framework de animação GreenSock Animation Platform (GSAP) em conjunto com o pack de ícones, feito pelos mesmos criadores do Tailwind, heroicons.
+Tela inicial desenvolvida com React utilizando o ambiente de desenvolvimento Vite e estilizada com o framework Tailwind. Foi animada com o framework de animação GreenSock Animation Platform (GSAP) em conjunto com o pack de ícones, feito pelos mesmos criadores do Tailwind, heroicons.
 
-Foi meu primeiro contato com Tailwind, onde pude notar uma melhora significativa na produtividade de desenvolvimento do projeto e também repetições de código quase nulas, ao contrário do CSS convencional.
+Sendo meu primeiro contato com Tailwind, pude notar uma melhora significativa na produtividade de desenvolvimento do projeto no quesito de estilização e responsividade.
 
 Por fim, aprimorei fortemente meus conhecimentos em React:
 * Explorando os hooks <code>useEffect</code> e <code>useState</code>;
