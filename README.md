@@ -1,4 +1,4 @@
-# Navbar e Menu com React, Tailwind e GSAP
+# Homepage com React, Tailwind e GSAP
 
 Página desenvolvida com React e estilizada com o framework Tailwind contendo uma barra de navegação intuitiva e um menu de opções. Foi animada com o framework de animação GreenSock Animation Platform (GSAP) em conjunto com o pack de ícones, feito pelos mesmos criadores do Tailwind, heroicons.
 
