@@ -11,7 +11,7 @@ Por fim, aprimorei fortemente meus conhecimentos em React:
 
 **Veja o projeto diretamente com o link abaixo:**
 
-https://navbar-e-menu.vercel.app
+https://reactandtailwind-website.vercel.app
 
 Para uma análise manual e técnica, continue com os procedimentos abaixo.
 
