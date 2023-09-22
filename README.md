@@ -13,7 +13,7 @@ Por fim, aprimorei fortemente meus conhecimentos em React:
 
 https://reactandtailwind-website.vercel.app
 
-Para uma análise manual e técnica, continue com os procedimentos abaixo.
+Para uma análise técnica, continue com os procedimentos abaixo.
 
 ## 🔧 Tecnologias utilizadas
 Node.js V.: 18.16.0 || React V.: 18.2.0 || Vite V.: 4.3.9 || Tailwind V.: 3.3.2 || GSAP V.: 3.12.1
