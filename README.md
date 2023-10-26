@@ -1,15 +1,15 @@
 # 🌐 Website com React, Tailwind e GSAP
 
-Website desenvolvido com React utilizando o ambiente de desenvolvimento Vite e estilizado com o framework Tailwind. Foi animado com o framework de animação GreenSock Animation Platform (GSAP) em conjunto com o pack de ícones, feito pelos mesmos criadores do Tailwind, heroicons.
+Website desenvolvido com React utilizando o ambiente de desenvolvimento Vite e estilizado com o framework Tailwind.
 
 Sendo meu primeiro contato com um framework de CSS, pude notar uma melhora significativa na produtividade de desenvolvimento do projeto no quesito de estilização e responsividade.
 
-Por fim, aprimorei fortemente meus conhecimentos em React:
+Por fim, aprimorei meus conhecimentos em React:
 * Explorando os hooks <code>useEffect</code> e <code>useState</code>;
-* Utilizando constantemente os nested components e suas relações entre componente pai e compontentes filhos;
-* Fazendo uso de ferramentas e frameworks para melhorar ainda mais a intuitividade e experiência do usuário.
+* Utilizando nested components e compreendendo suas relações entre componente pai e compontentes filhos;
+* Fazendo o uso de ferramentas e frameworks para melhorar ainda mais a experiência do usuário.
 
-**Veja o projeto diretamente com o link abaixo:**
+**Veja o deploy do projeto diretamente com o link abaixo:**
 
 https://reactandtailwind-website.vercel.app
 
