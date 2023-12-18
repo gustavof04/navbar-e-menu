@@ -9,6 +9,8 @@ Por fim, aprimorei meus conhecimentos em React:
 * Utilizando nested components e compreendendo suas relações entre componente pai e compontentes filhos;
 * Fazendo o uso de ferramentas e frameworks para melhorar ainda mais a experiência do usuário.
 
+> Status do Projeto: 🚧 (em desenvolvimento)
+
 **Veja o deploy do projeto diretamente com o link abaixo:**
 
 https://reactandtailwind-website.vercel.app
